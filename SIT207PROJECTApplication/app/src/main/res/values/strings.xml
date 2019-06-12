@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SIT207PROJECTApplication</string>
+    <string name="Support">Support</string>
+    <string name="Switch">Switch</string>
+    <string name="Remind">Remind</string>
+    <string name="Calender">Calender</string>
+    <string name="ADD">+</string>
+    <string name="Thank_you_for_your_support">THANK YOU FOR YOUR SUPPORT</string>
+    <string name="click_here">CLICK HERE</string>
+    <string name="paypal">PAYPAL</string>
+    <string name="bank">BANK</string>
+    <string name="another">ANOTHER</string>
+    <string name="welcome_screen">Welcome Screen</string>
+    <string name="done">DONE</string>
+    <string name="all_day">All-day</string>
+    <string name="hour">HOUR</string>
+    <string name="time">Time</string>
+    <string name="date">Date:</string>
+    <string name="add_event">ADD EVENT</string>
+    <string name="comd">:</string>
+    <string name="note">Note</string>
+
+
+</resources>
